@@ -1,0 +1,16 @@
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 1rem;
+    width: 200px;
+    height: 240px;
+}
+
+.portfolio h3{
+    margin: 0;
+}
+.portfolio p{
+    margin: 0;
+}

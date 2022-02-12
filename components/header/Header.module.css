@@ -1,0 +1,16 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.header .actions{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.iconButton{
+    margin: 0.8rem;
+}

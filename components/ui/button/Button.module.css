@@ -1,0 +1,12 @@
+.button{
+
+    outline: none;
+    border-style: solid;
+    border-radius: 0.5rem;
+    width: 8rem;
+    height: 2rem;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    border-color: black;
+}

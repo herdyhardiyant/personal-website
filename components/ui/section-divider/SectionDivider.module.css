@@ -1,0 +1,16 @@
+.sectionDivider{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.sectionDivider h3{
+    display: inline-block;
+    flex-grow: 0;
+    margin-right: 1rem;
+}
+
+.sectionDivider .line{
+    flex-grow: 1;
+    box-sizing: border-box;
+}
